@@ -1,0 +1,36 @@
+Spotify Overlay - Quick Start
+=============================
+
+1. Run SpotifyOverlay.exe
+2. Follow the setup wizard
+3. Authorize with Spotify
+4. Enjoy!
+
+Keyboard Shortcuts:
+- Ctrl+Shift+Space: Play/Pause
+- Ctrl+Shift+N: Next Track  
+- Ctrl+Shift+B: Previous Track
+- Ctrl+Shift+Q: Show Queue
+- Ctrl+Shift+L: Show Playlists
+
+Tip: Hover over the overlay to see controls!
+```
+
+### `TROUBLESHOOTING.txt`
+```
+Common Solutions:
+
+1. If overlay doesn't appear:
+   - Make sure Spotify is installed and running
+   - Check if overlay is behind other windows
+
+2. If controls don't work:
+   - Ensure you completed authorization
+   - Restart both Spotify and the Overlay
+
+3. If setup fails:
+   - Try creating a new Spotify app
+   - Check your internet connection
+   - Disable firewall temporarily
+
+For more help, visit the GitHub page!
