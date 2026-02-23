@@ -2,11 +2,13 @@
 
 ### 🎮 Screenshots
 
+<div align="center">
+
 | Default View | Expanded Controls |
 |--------------|------------------|
-| ![Default](assets/screenshot2.png) | ![Expanded](assets/screenshot1.png) |
-| *Minimal overlay* | *Full controls on hover* |
+| ![Minimal overlay](assets/screenshot1.png) | ![Full controls on hover](assets/screenshot2.png) |
 
+</div>
 
 A beautiful, transparent overlay for controlling Spotify during gameplay or streaming. Always on top, always stylish.
 
@@ -96,6 +98,8 @@ pip install -r requirements.txt
 
 # Run the application
 python main.py
+
+
 
 
 
