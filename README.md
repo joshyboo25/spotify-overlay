@@ -2,7 +2,7 @@
 
 ![Spotify Overlay Demo](screenshot.png)
 
-![Spotify Overlay Demo](screenshot2.png)
+(screenshot2.png)
 
 A beautiful, transparent overlay for controlling Spotify during gameplay or streaming. Always on top, always stylish.
 
@@ -92,5 +92,6 @@ pip install -r requirements.txt
 
 # Run the application
 python main.py
+
 
 
