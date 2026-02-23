@@ -1,9 +1,11 @@
 # Spotify Overlay v2.0 - Streamer Edition
 
-<div align="center">
-  <img src="assets/screenshot1.png" alt="Screenshot 1" width="45%"/>
-  <img src="assets/screenshot2.png" alt="Screenshot 2" width="45%"/>
-</div>
+### 🎮 Screenshots
+
+| Default View | Expanded Controls |
+|--------------|------------------|
+| ![Default](assets/screenshot2.png) | ![Expanded](assets/screenshot1.png) |
+| *Minimal overlay* | *Full controls on hover* |
 
 
 A beautiful, transparent overlay for controlling Spotify during gameplay or streaming. Always on top, always stylish.
@@ -94,6 +96,7 @@ pip install -r requirements.txt
 
 # Run the application
 python main.py
+
 
 
 
