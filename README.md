@@ -85,19 +85,20 @@ If you prefer to set up manually:
 ### Need More Help?
 - Check the `QUICK_START.txt` file included with the app
 - [Open an issue](../../issues) on GitHub
-- Email support: [YourEmail@domain.com]
+- Email support: [collinsjosh767@gmail.com]
 
 ## 🛠️ For Developers
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/spotify-overlay.git
+git clone https://github.com/joshyboo25/spotify-overlay.git
 
 # Install dependencies
 pip install -r requirements.txt
 
 # Run the application
 python main.py
+
 
 
 
