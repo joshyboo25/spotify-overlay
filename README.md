@@ -16,7 +16,7 @@ A beautiful, transparent overlay for controlling Spotify during gameplay or stre
 
 **For End Users (No technical knowledge required):**
 
-1. **Download** the latest release from the [Releases page](#)
+1. **Download** the latest release from the [Releases page](https://github.com/joshyboo25/spotify-overlay/releases/tag/v2.0)
 2. **Run** `SpotifyOverlay.exe`
 3. **Follow** the setup wizard (takes 2 minutes)
 4. **Enjoy** controlling Spotify without alt-tabbing!
@@ -99,6 +99,7 @@ pip install -r requirements.txt
 # Run the application
 python main.py
 ```
+
 
 
 
