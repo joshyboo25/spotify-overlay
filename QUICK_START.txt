@@ -16,7 +16,7 @@ Keyboard Shortcuts:
 Tip: Hover over the overlay to see controls!
 ```
 
-### `TROUBLESHOOTING.txt`
+### `TROUBLESHOOTING`
 ```
 Common Solutions:
 
@@ -34,3 +34,4 @@ Common Solutions:
    - Disable firewall temporarily
 
 For more help, visit the GitHub page!
+
